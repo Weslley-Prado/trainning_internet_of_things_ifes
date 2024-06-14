@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1716598531 source:/home/weslleyprado/Desktop/Engineering/Trainings/IoT/trainning_internet_of_things_ifes/trainningc/main.c
+	<stdio.h>
+	<stdlib.h>
+
